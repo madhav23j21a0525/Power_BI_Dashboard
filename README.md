@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Data Jobs Dashboard]("C:\Users\home\Downloads\powerbi\Resources\images\Project1_Dashboard_Page1.gif")
+![Data Jobs Dashboard](Project1_Dashboard_Overview.gif)
 
 
 ## Introduction
