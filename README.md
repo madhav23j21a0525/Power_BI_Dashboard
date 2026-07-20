@@ -4,7 +4,6 @@
   <img src=""C:\Users\home\Downloads\powerbi\Resources\images\Project1_Dashboard_Overview.gif"" alt="Data Jobs Dashboard GIF">
 </a>
 
-> <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 
 ## Introduction
@@ -36,7 +35,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
+![Data Jobs Dashboard Page 1]("C:\Users\home\Downloads\powerbi\Resources\images\Project1_Dashboard_Page1.gif")  
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
